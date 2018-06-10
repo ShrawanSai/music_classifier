@@ -3,4 +3,6 @@ this is a simple music classifier that classifies songs or music tracks into eit
 the program contains 3 scripts
 1.music_classifier.py: this is the main script. it is should be located in the folder with the training data of all the slow songs
 2.btf.py: it is to be located in the folder with training data of all fast songs
-3. test
+3.testerbt.py: it is to be located in folder with the testing data
+Please adjust the paths to the files in the main script accordingly.
+this program uses K nearest neighbour as its training algorithm.
